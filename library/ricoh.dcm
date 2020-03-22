@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R1180Q241B-TR-FE
+D Low Supply Current 150mA Voltage Regulator (LDO Regulator) with enable
+K linear regulator ldo fixed positive
+F https://www.mouser.com/datasheet/2/792/r1180-ea-923706.pdf
+$ENDCMP
+#
+#End Doc Library

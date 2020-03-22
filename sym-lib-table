@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name adafruit)(type Legacy)(uri ${KIPRJMOD}/library/adafruit.lib)(options "")(descr ""))
+  (lib (name ricoh)(type Legacy)(uri ${KIPRJMOD}/library/ricoh.lib)(options "")(descr ""))
+)
